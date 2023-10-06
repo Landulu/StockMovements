@@ -1,0 +1,10 @@
+/Users/maxime.antoine/Desktop/FnacDarty.JobInterview.Stock (1)/FnacDarty.JobInterview.Stock/bin/Debug/netstandard2.0/FnacDarty.JobInterview.Stock.deps.json
+/Users/maxime.antoine/Desktop/FnacDarty.JobInterview.Stock (1)/FnacDarty.JobInterview.Stock/bin/Debug/netstandard2.0/FnacDarty.JobInterview.Stock.dll
+/Users/maxime.antoine/Desktop/FnacDarty.JobInterview.Stock (1)/FnacDarty.JobInterview.Stock/bin/Debug/netstandard2.0/FnacDarty.JobInterview.Stock.pdb
+/Users/maxime.antoine/Desktop/FnacDarty.JobInterview.Stock (1)/FnacDarty.JobInterview.Stock/obj/Debug/netstandard2.0/FnacDarty.JobInterview.Stock.csproj.AssemblyReference.cache
+/Users/maxime.antoine/Desktop/FnacDarty.JobInterview.Stock (1)/FnacDarty.JobInterview.Stock/obj/Debug/netstandard2.0/FnacDarty.JobInterview.Stock.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maxime.antoine/Desktop/FnacDarty.JobInterview.Stock (1)/FnacDarty.JobInterview.Stock/obj/Debug/netstandard2.0/FnacDarty.JobInterview.Stock.AssemblyInfoInputs.cache
+/Users/maxime.antoine/Desktop/FnacDarty.JobInterview.Stock (1)/FnacDarty.JobInterview.Stock/obj/Debug/netstandard2.0/FnacDarty.JobInterview.Stock.AssemblyInfo.cs
+/Users/maxime.antoine/Desktop/FnacDarty.JobInterview.Stock (1)/FnacDarty.JobInterview.Stock/obj/Debug/netstandard2.0/FnacDarty.JobInterview.Stock.csproj.CoreCompileInputs.cache
+/Users/maxime.antoine/Desktop/FnacDarty.JobInterview.Stock (1)/FnacDarty.JobInterview.Stock/obj/Debug/netstandard2.0/FnacDarty.JobInterview.Stock.dll
+/Users/maxime.antoine/Desktop/FnacDarty.JobInterview.Stock (1)/FnacDarty.JobInterview.Stock/obj/Debug/netstandard2.0/FnacDarty.JobInterview.Stock.pdb
